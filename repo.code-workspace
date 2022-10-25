@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'source code pro', 'source code pro'",
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.formatOnPaste": true,
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Atom One Dark",
+
+    "prettier.singleQuote": true
+  }
+}

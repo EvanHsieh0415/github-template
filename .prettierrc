@@ -1,0 +1,13 @@
+{
+  "semi": false,
+  "overrides": [
+    {
+      "files": [
+        "*.py"
+      ],
+      "options": {
+        "tabWidth": 4
+      }
+    }
+  ]
+}
