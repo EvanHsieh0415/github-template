@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="img/icon.png" />
-  <h1>Github Template</h1>
-  <h2>Some Description Here</h2>
-  <img src="https://img.shields.io/github/license/EvanHsieh0415/github-template">
+
+  ![]("./img/icon.png")
+  # Github Template
+  ## Description Here
+  |>English Version<|[繁體中文說明書](./i18n/README.zho-Hant_TW.md)|[简体中文说明书](./i18n/README.zho-Hans_CN.md)|
+
 </div>

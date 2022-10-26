@@ -5,15 +5,15 @@
     }
   ],
   "settings": {
-    "editor.tabSize": 2,
-    "editor.fontFamily": "'source code pro', 'source code pro'",
+    "editor.tabSize": 4,
+    "editor.fontFamily": "'Sarasa Fixed J Regular'",
     "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "all",
     "editor.formatOnPaste": true,
-
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Atom One Dark",
-
-    "prettier.singleQuote": true
+    "workbench.colorTheme": "Atom One Dark"
   }
 }
